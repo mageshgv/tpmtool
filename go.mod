@@ -7,3 +7,5 @@ require (
 	github.com/paulgriffiths/pgtpm v0.0.0-20200328215603-26ce0aab5e1e
 	golang.org/x/sys v0.0.0-20200327173247-9dae0f8f5775 // indirect
 )
+
+replace github.com/paulgriffiths/pgtpm => github.com/mageshgv/pgtpm v1.0.0
